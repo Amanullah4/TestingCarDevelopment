@@ -5,6 +5,9 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         car audi = new car();
-        ///Users/abdullatif/eclipse-workspace/DevelopeCar
+        audi.color="black";
+        audi.number="11";
+        audi.door="2";
+        audi.model="A3";
     }
 }
