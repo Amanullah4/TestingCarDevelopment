@@ -12,8 +12,8 @@ public class Main {
         test case for immediate requirment is being written down
 		I did some changes to thish code
                 Ali added some codes ksldfklsldfjsldfl
-Yury changed the code
-        Ali added some codes ksldfklsldfjsldfl
+                Yury changed the code
+                Ali added some codes ksldfklsldfjsldfl
 
     }
 }
